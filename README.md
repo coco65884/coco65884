@@ -8,19 +8,18 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Languages
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats-theta-ivory-52.vercel.app/api?username=coco65884&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true)
-
+  <img src="https://github-readme-stats-theta-ivory-52.vercel.app/api?username=coco65884&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-theta-ivory-52.vercel.app/api/top-langs/?username=coco65884&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" height="180" alt="Top Languages"/>
 </div>
 
-### 💻 Top Languages by Repo
+### 📦 Featured Repository
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats-theta-ivory-52.vercel.app/api/top-langs/?username=coco65884&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&exclude_repo=github-readme-stats)
+![Obsidian Automation](https://github-readme-stats-theta-ivory-52.vercel.app/api/pin/?username=coco65884&repo=obsidian-automation&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -28,7 +27,7 @@
 
 <div align="center">
 
-![GitHub Contribution Grid](https://raw.githubusercontent.com/coco65884/coco65884/output/github-contribution-grid-snake-dark.svg)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=coco65884&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
