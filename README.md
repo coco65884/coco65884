@@ -12,23 +12,15 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-theta-ivory-52.vercel.app/api?username=coco65884&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-theta-ivory-52.vercel.app/api?username=coco65884&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true)
 
 </div>
 
-### 💻 Most Used Languages
+### 💻 Top Languages by Repo
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats-theta-ivory-52.vercel.app/api/top-langs/?username=coco65884&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
-</div>
-
-### 🔥 GitHub Streak
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=coco65884&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-theta-ivory-52.vercel.app/api/top-langs/?username=coco65884&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&exclude_repo=github-readme-stats)
 
 </div>
 
@@ -36,7 +28,7 @@
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=coco65884&theme=tokyo-night&hide_border=true&area=true)
+![GitHub Contribution Grid](https://raw.githubusercontent.com/coco65884/coco65884/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
