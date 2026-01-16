@@ -12,7 +12,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coco65884&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-theta-ivory-52.vercel.app/api?username=coco65884&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coco65884&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+![Top Languages](https://github-readme-stats-theta-ivory-52.vercel.app/api/top-langs/?username=coco65884&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 </div>
 
