@@ -19,7 +19,7 @@
 
 <div align="center">
 
-[![Obsidian Automation](https://github-readme-stats-theta-ivory-52.vercel.app/api/pin/?username=coco65884&repo=obsidian-automation&theme=tokyonight&hide_border=true&cache_seconds=0)](https://github.com/coco65884/obsidian-automation)
+[![Obsidian Automation](https://github-readme-stats-theta-ivory-52.vercel.app/api/pin/?username=coco65884&repo=obsidian-automation&theme=tokyonight&hide_border=true&cache_seconds=0&description_lines_count=2)](https://github.com/coco65884/obsidian-automation)
 
 </div>
 
