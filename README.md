@@ -19,7 +19,21 @@
 
 <div align="center">
 
-[![Obsidian Automation](https://github-readme-stats-theta-ivory-52.vercel.app/api/pin/?username=coco65884&repo=obsidian-automation&theme=tokyonight&hide_border=true&cache_seconds=0&description_lines_count=2)](https://github.com/coco65884/obsidian-automation)
+<table>
+<tr>
+<td align="center" width="450" style="background-color: #1a1b27; padding: 20px; border-radius: 10px;">
+  
+**💻 <a href="https://github.com/coco65884/obsidian-automation">obsidian-automation</a>**
+
+<sub>A tool to translate papers and organize them into Obsidian notes</sub>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Stars](https://img.shields.io/github/stars/coco65884/obsidian-automation?style=flat-square&color=yellow)
+![Forks](https://img.shields.io/github/forks/coco65884/obsidian-automation?style=flat-square&color=blue)
+
+</td>
+</tr>
+</table>
 
 </div>
 
